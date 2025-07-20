@@ -30,22 +30,20 @@ export default function ExploreClickPage() {
   const category = searchParams.get("category");
 
   const [filteredProjects, setFilteredProjects] = useState<Project[]>([]);
-  const [projects, setProjects] = useState<Project[]>([]);
 
   useEffect(() => {
     const data = crowdfunding_projects as Project[];
-    setProjects(data);
 
     if (category) {
       const filtered = data.filter((project) => project.category === category);
       setFilteredProjects(filtered);
     } else {
-      setFilteredProjects(data); 
+      setFilteredProjects(data);
     }
   }, [category]);
 
   return (
-    <main className="p-6  min-h-screen">
+    <main className="p-6 min-h-screen">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {filteredProjects.map((project) => (
           <div
@@ -58,7 +56,7 @@ export default function ExploreClickPage() {
                 alt={project.name}
                 className="w-full h-full object-cover"
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = '/placeholder.png'; 
+                  (e.target as HTMLImageElement).src = '/placeholder.png';
                 }}
               />
             </div>

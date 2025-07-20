@@ -27,7 +27,7 @@ export default function Navbar() {
 
   }
 
-  const handleKeyPress = (event: { key: any; }) => {
+  const handleKeyPress = (event: { key: unknown; }) => {
 
     if (event.key === "Enter") return handleSearch()
 

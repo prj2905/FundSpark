@@ -41,7 +41,7 @@ export default function SuccessStories() {
               alt={story.name}
               className="w-20 h-20 rounded-full object-cover mb-4"
             />
-            <p className="text-gray-600 text-sm italic mb-3">"{story.quote}"</p>
+            <p className="text-gray-600 text-sm italic mb-3">{story.quote}</p>
             <h4 className="font-semibold text-[#364f6b]">{story.name}</h4>
             <span className="text-xs text-blue-600">{story.project}</span>
           </div>

@@ -1,11 +1,11 @@
  'use client'
-import { useState,useEffect } from 'react';
+import { useState } from 'react';
 
 
 import kickstarter_projects from "./../Data/crowdfunding_projects.json";
 
 export default function Projects() {
-    const [projects, setProjects] = useState(kickstarter_projects.slice(0, 5));
+    const [projects] = useState(kickstarter_projects.slice(0, 5));
     
     return (
         <div className="feature py-10 px-4">

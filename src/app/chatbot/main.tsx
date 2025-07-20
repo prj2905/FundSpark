@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 export default function Chatbot() {
   const [query, setQuery] = useState('');
-  const [response, setResponse] = useState('');
+  
   const [loading, setLoading] = useState(false);
   const [chatHistory, setChatHistory] = useState<{ user: string; bot: string }[]>([]);
 

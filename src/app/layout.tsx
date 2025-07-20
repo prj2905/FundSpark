@@ -1,10 +1,10 @@
 'use client';
 import { usePathname } from 'next/navigation';
 
-import type { Metadata } from "next";
+
 import { Sora,Inter,Poppins } from "next/font/google";
 import "./globals.css";
-import Navbar from "./components/Landing Page/Navbar";
+
 import MainNavbar from "./components/Main-Navbar/main-navbar";
 import Footer from "./components/Landing Page/Footer";
 

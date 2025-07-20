@@ -19,7 +19,8 @@ export async function POST(request: NextRequest) {
     await newUser.save();
 
     return NextResponse.json({ message: "User created successfully" }, { status: 201 });
-  } catch (error: any) {
-    return NextResponse.json({ error: error.message }, { status: 500 });
+  } catch (error: unknown) {
+    const errorMessage = error instanceof Error ? error.message : "An unknown error occurred";
+    return NextResponse.json({ error: errorMessage }, { status: 500 });
   }
 }

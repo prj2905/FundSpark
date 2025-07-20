@@ -22,7 +22,7 @@ export default function Dashboard() {
       <h1 className="text-2xl font-bold mb-4">Welcome, {user.username || user.email}!</h1>
       <p className="text-gray-600 mb-6">Role: <span className="font-medium">{user.role}</span></p>
 
-      {/* Role-based action */}
+      
       {user.role === "creator" ? (
         <a
           href="/create"

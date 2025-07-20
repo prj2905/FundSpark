@@ -14,7 +14,5 @@ declare module "next-auth" {
     user: User & DefaultSession["user"]; 
   }
 
-  interface JWT {
 
-  }
 }

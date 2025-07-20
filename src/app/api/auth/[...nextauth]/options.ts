@@ -4,7 +4,7 @@ import CredentialsProvider from "next-auth/providers/credentials";
 import bcrypt from "bcryptjs";
 import dbConnect from "@/app/utils/db";
 import User from "@/app/models/userModel"
-import { email } from "zod/v4";
+
 
 
 export const authOptions: NextAuthOptions = {
@@ -16,12 +16,13 @@ export const authOptions: NextAuthOptions = {
                 email: { label: "Email", type: "text", placeholder: "Enter your email" },
                 password: { label: "Password", type: "password", placeholder: "Enter your password" }
             },
-            async authorize(credentials: any): Promise<any> {
+            async authorize(credentials: unknown): Promise<any> {
                 await dbConnect();
+                const { email, password } = credentials as { email: string; password: string };
                 try {
                     const user = await User.findOne({
                         $or: [
-                            { email: credentials.email },
+                            { email: email },
 
                         ]
                     })
@@ -32,7 +33,7 @@ export const authOptions: NextAuthOptions = {
                     
 
                     const isPasswordCorrect = await bcrypt.compare(
-                        credentials.password, user.password);
+                        password, user.password);
                     if (isPasswordCorrect) {
                         return user;
                     }

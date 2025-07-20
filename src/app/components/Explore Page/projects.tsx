@@ -1,6 +1,6 @@
 'use client';
-import kickstarter_projects from '../Data/crowdfunding_projects.json';
 
+import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 
@@ -42,11 +42,11 @@ export default function ProjectsList({ projects }: Props) {
             className="bg-white shadow-md rounded-2xl overflow-hidden hover:shadow-xl transition-shadow duration-300 cursor-pointer"
           >
             <div className="aspect-[4/3] bg-gray-200">
-              <img
+              <Image
                 src={project.image}
                 alt={project.name}
                 className="w-full h-full object-cover"
-                
+
               />
             </div>
             <div className="p-4">

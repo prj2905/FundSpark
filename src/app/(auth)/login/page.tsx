@@ -1,14 +1,14 @@
 'use client';
 import { signIn } from 'next-auth/react';
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
+
 import Link from 'next/link';
 import { FcGoogle } from 'react-icons/fc';
 
 export default function LoginForm() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const router = useRouter();
+  
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();

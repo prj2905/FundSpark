@@ -10,11 +10,10 @@ import Chatbot from './chatbot/page';
 import { useRef } from 'react';
 
 export default function Home(){
-    const projectsRef = useRef<HTMLDivElement>(null);
+   
 
-  const handleScrollToProjects = () => {
-    projectsRef.current?.scrollIntoView({ behavior: 'smooth' });
-  };
+  
+  
 
   return (
    <main className='main'>
