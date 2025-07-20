@@ -16,32 +16,31 @@ export const authOptions: NextAuthOptions = {
                 email: { label: "Email", type: "text", placeholder: "Enter your email" },
                 password: { label: "Password", type: "password", placeholder: "Enter your password" }
             },
-            async authorize(credentials: unknown): Promise<any> {
+            async authorize(
+                credentials: Record<"email" | "password", string> | undefined
+            ): Promise< null> {
                 await dbConnect();
-                const { email, password } = credentials as { email: string; password: string };
+                if (!credentials) return null;
+                const { email, password } = credentials;
                 try {
                     const user = await User.findOne({
                         $or: [
                             { email: email },
-
                         ]
-                    })
+                    });
                     if (!user) {
-                        throw new Error("User not found");
+                        return null;
                     }
-
-                    
-
                     const isPasswordCorrect = await bcrypt.compare(
-                        password, user.password);
+                        password, user.password
+                    );
                     if (isPasswordCorrect) {
                         return user;
+                    } else {
+                        return null;
                     }
-                    else {
-                        throw new Error("Invalid credentials");
-                    }
-                } catch (error: any) {
-                    throw new Error(error);
+                } catch (error: unknown) {
+                    return null;
                 }
             },
 
