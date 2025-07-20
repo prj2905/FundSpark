@@ -1,0 +1,55 @@
+
+@import "tailwindcss";
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities;
+
+html {
+  @apply scroll-smooth;
+}
+
+
+body{
+  @apply bg-gradient-to-r from-[#fffcf2] to-[#fff1e6] antialiased leading-relaxed 
+}
+
+.main2{
+  @apply px-4   max-w-9/10 mx-auto
+}
+
+.login-button{
+  @apply bg-[#364f6b] rounded-md text-white px-4 py-1 text-sm min-w-[80px] text-center hover:bg-[#2c3e50] cursor-pointer
+}
+
+.logo{
+  @apply ml-8
+}
+
+.cta{
+  @apply ml-4 mt-12
+}
+
+.hero{
+  @apply flex gap-10 mt-24 
+}
+
+.illustration{
+  @apply mr-8 w-full max-w-md transition duration-300 ease-in-out 
+            drop-shadow-[0_0_10px_rgba(255,255,0,0.5)] 
+            hover:drop-shadow-[0_0_20px_rgba(255,255,0,0.9)];
+}
+
+.slogan{
+  @apply text-4xl font-bold;
+
+}
+
+.feature{
+  @apply mt-20 
+}
+
+.projects{
+  @apply flex gap-6 overflow-x-auto pb-4 
+}
+
+

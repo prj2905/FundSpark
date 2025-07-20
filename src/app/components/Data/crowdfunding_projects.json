@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "name": "Pebble Time \u2013 Awesome Smartwatch",
+    "blurb": "A new color e-paper smartwatch with up to 7 days battery life.",
+    "image": "/pulse.webp",
+    "goal": 46000,
+    "pledged": 203380,
+    "currency": "USD",
+    "deadline": "2025-07-29",
+    "location": "Palo Alto, CA, USA",
+    "creator": {
+      "id": 201,
+      "name": "Pebble Technology"
+    },
+    "description": "Pebble Time features a color e-paper display, a new timeline interface, and up to 7 days of battery life.",
+    "category": "Technology",
+    "percentageFunded": 4067,
+    "daysLeft": 48,
+    "story": "Pebble Time \u2013 Awesome Smartwatch #1 started from the idea that a new color e-paper smartwatch with up to 7 days battery life. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Pebble Technology is a passionate team dedicated to excellence in technology. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 2,
+    "name": "Exploding Kittens",
+    "blurb": "A card game about kittens and explosions and laser beams.",
+    "image": "/cat.png",
+    "goal": 10000,
+    "pledged": 8782,
+    "currency": "USD",
+    "deadline": "2025-08-15",
+    "location": "Los Angeles, CA, USA",
+    "creator": {
+      "id": 202,
+      "name": "Exploding Kittens"
+    },
+    "description": "A strategic card game perfect for people who are into kittens and explosions.",
+    "category": "Games",
+    "percentageFunded": "",
+    "daysLeft": 28,
+    "story": "Exploding Kittens #2 started from the idea that a card game about kittens and explosions and laser beams. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Exploding Kittens is a passionate team dedicated to excellence in games. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 3,
+    "name": "Vinyl Revival \u2013 Soul Album Reissue ",
+    "blurb": "Classic soul sounds remastered and pressed to vinyl.",
+    "image": "/music.png",
+    "goal": 15000,
+    "pledged": 22000,
+    "currency": "USD",
+    "deadline": "2025-09-30",
+    "location": "Nashville, TN, USA",
+    "creator": {
+      "id": 203,
+      "name": "Janelle Keys"
+    },
+    "description": "A collection of remastered soul classics reissued on limited edition vinyl.",
+    "category": "Music",
+    "percentageFunded": 146,
+    "daysLeft": 43,
+    "story": "Vinyl Revival \u2013 Soul Album Reissue #3 started from the idea that classic soul sounds remastered and pressed to vinyl. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Janelle Keys is a passionate team dedicated to excellence in music. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 4,
+    "name": "Urban Mural Revival",
+    "blurb": "Transforming cities with giant, beautiful murals.",
+    "image": "/building.png",
+    "goal": 10000,
+    "pledged": 14500,
+    "currency": "USD",
+    "deadline": "2025-10-20",
+    "location": "Brooklyn, NY, USA",
+    "creator": {
+      "id": 204,
+      "name": "Canvas Collective"
+    },
+    "description": "Artists from around the world collaborate to transform urban spaces into works of art.",
+    "category": "Art",
+    "percentageFunded": 145,
+    "daysLeft": 33,
+    "story": "Urban Mural Revival #4 started from the idea that transforming cities with giant, beautiful murals. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Canvas Collective is a passionate team dedicated to excellence in art. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 5,
+    "name": "The Legend of Vox Machina",
+    "blurb": "An animated special based on Critical Role's first D&D campaign.",
+    "image" : "/fantasy.png",
+    "goal": 75000,
+    "pledged": 113850,
+    "currency": "USD",
+    "deadline": "2025-10-10",
+    "location": "Los Angeles, CA, USA",
+    "creator": {
+      "id": 205,
+      "name": "Critical Role"
+    },
+    "description": "The Vox Machina animated special brings beloved characters from Critical Role to life.",
+    "category": "Film",
+    "percentageFunded": 1518,
+    "daysLeft": 53,
+    "story": "The Legend of Vox Machina #5 started from the idea that an animated special based on critical role's first d&d campaign. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Critical Role is a passionate team dedicated to excellence in film. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 6,
+    "name": "Literary Magazine Revival",
+    "blurb": "A print and digital literary magazine for new voices.",
+    "image": "/illustrate.png",
+    "goal": 10000,
+    "pledged": 13000,
+    "currency": "USD",
+    "deadline": "2025-11-25",
+    "location": "Chicago, IL, USA",
+    "creator": {
+      "id": 206,
+      "name": "StoryBound Press"
+    },
+    "description": "Publishing original works from emerging writers in a quarterly literary magazine.",
+    "category": "Publishing",
+    "percentageFunded": 130,
+    "daysLeft": 38,
+    "story": "Literary Magazine Revival #6 started from the idea that a print and digital literary magazine for new voices. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "StoryBound Press is a passionate team dedicated to excellence in publishing. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 7,
+    "name": "Everyday Backpack by Peak Design ",
+    "blurb": "A versatile, durable backpack for everyday use.",
+    "image":"/backpack.webp",
+    "goal": 5000,
+    "pledged": 6500,
+    "currency": "USD",
+    "deadline": "2025-09-28",
+    "location": "San Francisco, CA, USA",
+    "creator": {
+      "id": 207,
+      "name": "Peak Design"
+    },
+    "description": "Smart compartments and sleek design make this the ultimate urban backpack.",
+    "category": "Design",
+    "percentageFunded": 1313,
+    "daysLeft": 41,
+    "story": "Everyday Backpack by Peak Design #7 started from the idea that a versatile, durable backpack for everyday use. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Peak Design is a passionate team dedicated to excellence in design. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 8,
+    "name": "Recycled Fashion Line",
+    "blurb": "Sustainable fashion made from ocean plastics.",
+    "image":"/ocean.webp",
+    "goal": 20000,
+    "pledged": 24000,
+    "currency": "USD",
+    "deadline": "2025-07-12",
+    "location": "Portland, OR, USA",
+    "creator": {
+      "id": 208,
+      "name": "UrbanThreads"
+    },
+    "description": "Our fashion line uses recycled materials to create beautiful, sustainable clothing.",
+    "category": "Fashion",
+    "percentageFunded": 120,
+    "daysLeft": 55,
+    "story": "Recycled Fashion Line #8 started from the idea that sustainable fashion made from ocean plastics. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "UrbanThreads is a passionate team dedicated to excellence in fashion. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 9,
+    "name": "Inkspire: Indie Comic Series",
+    "blurb": "A powerful new comic series featuring diverse voices.",
+    "image": "/comic.png",
+    "goal": 10000,
+    "pledged": 12000,
+    "currency": "USD",
+    "deadline": "2025-10-21",
+    "location": "Austin, TX, USA",
+    "creator": {
+      "id": 209,
+      "name": "Inkspire"
+    },
+    "description": "Follow epic stories and groundbreaking art in this new independent comic series.",
+    "category": "Comics",
+    "percentageFunded": 120,
+    "daysLeft": 34,
+    "story": "Inkspire: Indie Comic Series #9 started from the idea that a powerful new comic series featuring diverse voices. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Inkspire is a passionate team dedicated to excellence in comics. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 10,
+    "name": "Analog Vibes \u2013 Photo Revival ",
+    "blurb": "Recreating the magic of analog photography.",
+    "image":"/camera.png",
+    "goal": 15000,
+    "pledged": 16500,
+    "currency": "USD",
+    "deadline": "2025-08-23",
+    "location": "Seattle, WA, USA",
+    "creator": {
+      "id": 210,
+      "name": "LensFlare Studios"
+    },
+    "description": "Bringing back analog photo gear and vintage aesthetics for the modern photographer.",
+    "category": "Photography",
+    "percentageFunded": 110,
+    "daysLeft": 36,
+    "story": "Analog Vibes \u2013 Photo Revival #10 started from the idea that recreating the magic of analog photography. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "LensFlare Studios is a passionate team dedicated to excellence in photography. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 11,
+    "name": "Farm to Table Cookbook",
+    "blurb": "Seasonal recipes from local farmers and chefs.",
+    "image": "/cookbook.avif",
+    "goal": 25000,
+    "pledged": 26000,
+    "currency": "USD",
+    "deadline": "2025-09-08",
+    "location": "Boston, MA, USA",
+    "creator": {
+      "id": 211,
+      "name": "Culinary Creators"
+    },
+    "description": "This beautifully photographed book features over 100 recipes and stories from farms across America.",
+    "category": "Food",
+    "percentageFunded": 104,
+    "daysLeft": 51,
+    "story": "Farm to Table Cookbook #11 started from the idea that seasonal recipes from local farmers and chefs. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Culinary Creators is a passionate team dedicated to excellence in food. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 12,
+    "name": "Handmade Home Goods #12",
+    "blurb": "Beautiful handmade goods crafted with love.",
+    "image":"goods.jpeg",
+    "goal": 8000,
+    "pledged": 9200,
+    "currency": "USD",
+    "deadline": "2025-08  -29",
+    "location": "Boulder, CO, USA",
+    "creator": {
+      "id": 212,
+      "name": "CraftNest"
+    },
+    "description": "Our line includes ceramic mugs, wooden bowls, and handwoven textiles.",
+    "category": "Crafts",
+    "percentageFunded": 115,
+    "daysLeft": 42,
+    "story": "Handmade Home Goods #12 started from the idea that beautiful handmade goods crafted with love. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "CraftNest is a passionate team dedicated to excellence in crafts. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 13,
+    "name": "SmartMirror: Voice-Controlled Assistant",
+    "blurb": "A futuristic mirror that shows time, weather, calendar & responds to your voice.",
+    "image":"mirror.avif",
+    "goal": 60000,
+    "pledged": 72000,
+    "currency": "USD",
+    "deadline": "2025-11-04",
+    "location": "San Jose, CA, USA",
+    "creator": {
+      "id": 213,
+      "name": "ReflectAI"
+    },
+    "description": "SmartMirror integrates with your smart home and displays essential info while you get ready.",
+    "category": "Technology",
+    "percentageFunded": 120,
+    "daysLeft": 47,
+    "story": "SmartMirror: Voice-Controlled Assistant started from the idea that a futuristic mirror that shows time, weather, calendar & responds to your voice. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "ReflectAI is a passionate team dedicated to excellence in technology. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 14,
+    "name": "Dungeon Crawler: Tabletop RPG",
+    "blurb": "A new immersive role-playing board game with modular terrains.",
+    "image":"game.png",
+    "goal": 45000,
+    "pledged": 51000,
+    "currency": "USD",
+    "deadline": "2025-09-22",
+    "location": "Denver, CO, USA",
+    "creator": {
+      "id": 214,
+      "name": "Mythic Games"
+    },
+    "description": "Dungeon Crawler brings rich storytelling and strategic gameplay to your tabletop.",
+    "category": "Games",
+    "percentageFunded": 113,
+    "daysLeft": 35,
+    "story": "Dungeon Crawler: Tabletop RPG started from the idea that a new immersive role-playing board game with modular terrains. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Mythic Games is a passionate team dedicated to excellence in games. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 15,
+    "name": "Live in Studio B \u2013 Jazz Album",
+    "blurb": "A full-length jazz album recorded live in one take.",
+    "image":"jazz.jpg",
+    "goal": 12000,
+    "pledged": 13800,
+    "currency": "USD",
+    "deadline": "2025-10-18",
+    "location": "New Orleans, LA, USA",
+    "creator": {
+      "id": 215,
+      "name": "Marcus & The 5th Ave Band"
+    },
+    "description": "Raw, real, and soulful \u2013 a return to live analog jazz recordings.",
+    "category": "Music",
+    "percentageFunded": 115,
+    "daysLeft": 31,
+    "story": "Live in Studio B \u2013 Jazz Album started from the idea that a full-length jazz album recorded live in one take. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Marcus & The 5th Ave Band is a passionate team dedicated to excellence in music. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 16,
+    "name": "Street Sketchers Mural Tour",
+    "blurb": "Support a global mural tour celebrating street artists.",
+    "image":"street.jpg",
+    "goal": 10000,
+    "pledged": 12000,
+    "currency": "USD",
+    "deadline": "2025-12-19",
+    "location": "Berlin, Germany",
+    "creator": {
+      "id": 216,
+      "name": "UrbanSkin"
+    },
+    "description": "A global initiative showcasing local artists through large-scale public murals.",
+    "category": "Art",
+    "percentageFunded": 120,
+    "daysLeft": 32,
+    "story": "Street Sketchers Mural Tour started from the idea that support a global mural tour celebrating street artists. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "UrbanSkin is a passionate team dedicated to excellence in art. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 17,
+    "name": "Cinematopia: Short Film Anthology",
+    "blurb": "An indie film project featuring 5 short films from global creators.",
+    "image": "/film.jpeg",
+    "goal": 20000,
+    "pledged": 26000,
+    "currency": "USD",
+    "deadline": "2025-11-01",
+    "location": "Toronto, Canada",
+    "creator": {
+      "id": 217,
+      "name": "BlueBox Pictures"
+    },
+    "description": "Each film offers a different genre from sci-fi to slice of life, made by emerging filmmakers.",
+    "category": "Film",
+    "percentageFunded": 130,
+    "daysLeft": 44,
+    "story": "Cinematopia: Short Film Anthology started from the idea that an indie film project featuring 5 short films from global creators. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "BlueBox Pictures is a passionate team dedicated to excellence in film. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 18,
+    "name": "Wordsmith Quarterly",
+    "blurb": "A modern literary journal with a sharp edge.",
+    "image":"journal.webp",
+    "goal": 8500,
+    "pledged": 9100,
+    "currency": "USD",
+    "deadline": "2025-12-27",
+    "location": "Edinburgh, Scotland",
+    "creator": {
+      "id": 218,
+      "name": "Lexicon Press"
+    },
+    "description": "Poetry, essays, short fiction, and visual art in a beautifully designed quarterly.",
+    "category": "Publishing",
+    "percentageFunded": 107,
+    "daysLeft": 40,
+    "story": "Wordsmith Quarterly started from the idea that a modern literary journal with a sharp edge. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Lexicon Press is a passionate team dedicated to excellence in publishing. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 19,
+    "name": "EcoLamp \u2013 Rechargeable Minimalist Light",
+    "blurb": "A design-forward sustainable lamp with wireless charging.",
+    "image": "/lamp.jpeg",
+    "goal": 18000,
+    "pledged": 21000,
+    "currency": "USD",
+    "deadline": "2025-10-06",
+    "location": "Oslo, Norway",
+    "creator": {
+      "id": 219,
+      "name": "NordicLight Studio"
+    },
+    "description": "The EcoLamp is elegant, efficient, and eco-friendly\u2014made from biodegradable materials.",
+    "category": "Design",
+    "percentageFunded": 117,
+    "daysLeft": 49,
+    "story": "EcoLamp \u2013 Rechargeable Minimalist Light started from the idea that a design-forward sustainable lamp with wireless charging. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "NordicLight Studio is a passionate team dedicated to excellence in design. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 20,
+    "name": "Fair Threads \u2013 Worker-Owned Denim",
+    "blurb": "Ethically made jeans from a worker-owned cooperative.",
+    "image": "/jeans.jpg",
+    "goal": 30000,
+    "pledged": 34000,
+    "currency": "USD",
+    "deadline": "2025-10-11",
+    "location": "Detroit, MI, USA",
+    "creator": {
+      "id": 220,
+      "name": "Fair Threads Co-op"
+    },
+    "description": "Durable and sustainable denim made under ethical labor practices.",
+    "category": "Fashion",
+    "percentageFunded": 113,
+    "daysLeft": 54,
+    "story": "Fair Threads \u2013 Worker-Owned Denim started from the idea that ethically made jeans from a worker-owned cooperative. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Fair Threads Co-op is a passionate team dedicated to excellence in fashion. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 21,
+    "name": "Paper and Flame: Fantasy Comic",
+    "blurb": "A lushly illustrated fantasy comic steeped in magic.",
+    "image": "/novel.png",
+    "goal": 16000,
+    "pledged": 19200,
+    "currency": "USD",
+    "deadline": "2025-06-24",
+    "location": "Melbourne, Australia",
+    "creator": {
+      "id": 221,
+      "name": "Ravensong Comics"
+    },
+    "description": "Follow the story of a fire-wielding girl and her paper dragon in this epic fantasy saga.",
+    "category": "Comics",
+    "percentageFunded": 120,
+    "daysLeft": 37,
+    "story": "Paper and Flame: Fantasy Comic started from the idea that a lushly illustrated fantasy comic steeped in magic. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Ravensong Comics is a passionate team dedicated to excellence in comics. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 22,
+    "name": "Nature Lens: A Wildlife Photo Book",
+    "blurb": "Stunning wildlife photography from six continents.",
+    "image":"/wild.jpeg",
+    "goal": 20000,
+    "pledged": 27000,
+    "currency": "USD",
+    "deadline": "2025-09-03",
+    "location": "Cape Town, South Africa",
+    "creator": {
+      "id": 222,
+      "name": "Wilderness Collective"
+    },
+    "description": "From snow leopards in the Himalayas to hummingbirds in the Amazon, this book captures the natural world.",
+    "category": "Photography",
+    "percentageFunded": 135,
+    "daysLeft": 46,
+    "story": "Nature Lens: A Wildlife Photo Book started from the idea that stunning wildlife photography from six continents. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Wilderness Collective is a passionate team dedicated to excellence in photography. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 23,
+    "name": "Tabletop Vegan \u2013 Plant-Based Dining Game",
+    "blurb": "A fun cooking card game that teaches plant-based recipes.",
+    "image":"/dinner.png",
+    "goal": 7000,
+    "pledged": 8400,
+    "currency": "USD",
+    "deadline": "2025-08-26",
+    "location": "Austin, TX, USA",
+    "creator": {
+      "id": 223,
+      "name": "Game & Graze"
+    },
+    "description": "Combine ingredients, beat the clock, and learn real recipes in this food-themed game.",
+    "category": "Food",
+    "percentageFunded": 120,
+    "daysLeft": 39,
+    "story": "Tabletop Vegan \u2013 Plant-Based Dining Game started from the idea that a fun cooking card game that teaches plant-based recipes. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Game & Graze is a passionate team dedicated to excellence in food. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 24,
+    "name": "Hand-Forged Knives by MountainSteel",
+    "blurb": "Masterful blades made using ancient forging techniques.",
+    "image": "/knives.webp",
+    "goal": 15000,
+    "pledged": 18000,
+    "currency": "USD",
+    "deadline": "2025-08-07",
+    "location": "Asheville, NC, USA",
+    "creator": {
+      "id": 224,
+      "name": "MountainSteel Forge"
+    },
+    "description": "Each knife is made by hand using Damascus steel and locally sourced hardwoods.",
+    "category": "Crafts",
+    "percentageFunded": 120,
+    "daysLeft": 50,
+    "story": "Hand-Forged Knives by MountainSteel started from the idea that masterful blades made using ancient forging techniques. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "MountainSteel Forge is a passionate team dedicated to excellence in crafts. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 25,
+    "name": "NanoPi 3 \u2013 Open Source Mini Computer",
+    "blurb": "A compact, powerful Linux PC for developers and tinkerers.",
+    "image": "/computer.jpg",
+    "goal": 40000,
+    "pledged": 46000,
+    "currency": "USD",
+    "deadline": "2025-07-09",
+    "location": "Tokyo, Japan",
+    "creator": {
+      "id": 225,
+      "name": "OpenPi Labs"
+    },
+    "description": "Perfect for DIY projects, robotics, and home servers, NanoPi is an open and expandable platform.",
+    "category": "Technology",
+    "percentageFunded": 115,
+    "daysLeft": 52,
+    "story": "NanoPi 3 \u2013 Open Source Mini Computer started from the idea that a compact, powerful linux pc for developers and tinkerers. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "OpenPi Labs is a passionate team dedicated to excellence in technology. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 26,
+    "name": "Bard Quest \u2013 Storytelling RPG Game",
+    "blurb": "A role-playing game focused on songs, tales, and oral legends.",
+    "image": "/bard.png",
+    "goal": 18000,
+    "pledged": 19500,
+    "currency": "USD",
+    "deadline": "2025-09-30",
+    "location": "Bristol, UK",
+    "creator": {
+      "id": 226,
+      "name": "FireScroll Games"
+    },
+    "description": "Unique mechanics that reward storytelling, poetry, and creativity in a fantasy world.",
+    "category": "Games",
+    "percentageFunded": 108,
+    "daysLeft": 43,
+    "story": "Bard Quest \u2013 Storytelling RPG Game started from the idea that a role-playing game focused on songs, tales, and oral legends. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "FireScroll Games is a passionate team dedicated to excellence in games. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 27,
+    "name": "Echoes of Earth \u2013 Ambient Album",
+    "blurb": "A deep ambient soundscape album using field recordings.",
+    "image": "/album.jpeg",
+    "goal": 9000,
+    "pledged": 9900,
+    "currency": "USD",
+    "deadline": "2025-07-21",
+    "location": "Reykjavik, Iceland",
+    "creator": {
+      "id": 227,
+      "name": "Aurora Sound"
+    },
+    "description": "Created from recordings in Icelandic wilderness, this ambient album blends nature with synth.",
+    "category": "Music",
+    "percentageFunded": 110,
+    "daysLeft": 34,
+    "story": "Echoes of Earth \u2013 Ambient Album started from the idea that a deep ambient soundscape album using field recordings. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Aurora Sound is a passionate team dedicated to excellence in music. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 28,
+    "name": "SketchStitch \u2013 Illustrated Embroidery Kits",
+    "blurb": "Beautiful, beginner-friendly embroidery kits with original art.",
+    "image": "/kit.jpg",
+    "goal": 5000,
+    "pledged": 6200,
+    "currency": "USD",
+    "deadline": "2025-08-17",
+    "location": "Minneapolis, MN, USA",
+    "creator": {
+      "id": 228,
+      "name": "SketchStitch"
+    },
+    "description": "Each kit includes pre-printed fabric, floss, hoop, and an easy-to-follow guide.",
+    "category": "Crafts",
+    "percentageFunded": 124,
+    "daysLeft": 30,
+    "story": "SketchStitch \u2013 Illustrated Embroidery Kits started from the idea that beautiful, beginner-friendly embroidery kits with original art. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "SketchStitch is a passionate team dedicated to excellence in crafts. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 29,
+    "name": "Mirrorless Mag \u2013 Photo Culture Zine",
+    "blurb": "A quarterly zine about photography culture, gear, and art.",
+    "image":"/mag.jpg",
+    "goal": 8000,
+    "pledged": 8700,
+    "currency": "USD",
+    "deadline": "2025-08-02",
+    "location": "London, UK",
+    "creator": {
+      "id": 229,
+      "name": "Mirrorless Media"
+    },
+    "description": "Features interviews, photo essays, reviews, and analog/digital inspiration for photographers.",
+    "category": "Photography",
+    "percentageFunded": 109,
+    "daysLeft": 45,
+    "story": "Mirrorless Mag \u2013 Photo Culture Zine started from the idea that a quarterly zine about photography culture, gear, and art. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Mirrorless Media is a passionate team dedicated to excellence in photography. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  },
+  {
+    "id": 30,
+    "name": "The Art of Silence \u2013 Illustrated Novel",
+    "blurb": "A beautifully illustrated story exploring deaf culture through fantasy.",
+    "image":"novel.png",
+    "goal": 25000,
+    "pledged": 29000,
+    "currency": "USD",
+    "deadline": "2025-09-13",
+    "location": "Seattle, WA, USA",
+    "creator": {
+      "id": 230,
+      "name": "Paper Whisper Studio"
+    },
+    "description": "This 200-page novel is filled with lush illustrations and a moving, silent narrative.",
+    "category": "Publishing",
+    "percentageFunded": 116,
+    "daysLeft": 56,
+    "story": "The Art of Silence \u2013 Illustrated Novel started from the idea that a beautifully illustrated story exploring deaf culture through fantasy. Our goal is to bring this vision to life by combining innovative design, community input, and high-quality execution.",
+    "company_description": "Paper Whisper Studio is a passionate team dedicated to excellence in publishing. With a track record of creativity and performance, we aim to exceed backer expectations.",
+    "what_will_you_get": [
+      {
+        "amount": 10,
+        "reward": "Thank-you email and your name on our backers page."
+      },
+      {
+        "amount": 25,
+        "reward": "Digital wallpaper and project update access."
+      },
+      {
+        "amount": 50,
+        "reward": "Early bird special: one unit of the product or digital copy."
+      },
+      {
+        "amount": 100,
+        "reward": "Product/digital copy + limited edition merch."
+      },
+      {
+        "amount": 250,
+        "reward": "Deluxe package: product, merch, plus backer-exclusive updates."
+      },
+      {
+        "amount": 500,
+        "reward": "Premium package: all above + invitation to a virtual meet-and-greet."
+      },
+      {
+        "amount": 1000,
+        "reward": "VIP backer: behind-the-scenes access and founder Q&A session."
+      }
+    ],
+    "risks_and_challenges": "While we have experience and solid plans, unexpected delays in production or shipping may occur. We are committed to transparency and will keep backers updated on any challenges."
+  }
+]
