@@ -60,7 +60,7 @@ export default function MainNavbar() {
     <nav role="navigation" className="w-full px-4 py-4 md:py-5">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
 
-        {/* Logo + Mobile menu */}
+        
         <div className="flex w-full md:w-auto items-center justify-between">
           <Link href="/">
             <Image src="/logo.png" alt="FundSpark Logo" width={120} height={50} priority />
@@ -77,7 +77,7 @@ export default function MainNavbar() {
           </button>
         </div>
 
-        {/* Search bar */}
+       
         <div className="w-full md:w-1/3">
           <form onSubmit={(e) => { e.preventDefault(); handleSearch(); }} className="relative">
             <label htmlFor="project" className="sr-only">Search</label>
@@ -98,7 +98,7 @@ export default function MainNavbar() {
           </form>
         </div>
 
-        {/* Navigation links */}
+        
         <div className={`w-full md:w-auto flex-col md:flex-row items-center gap-6 md:flex ${isOpen ? "flex mt-4" : "hidden md:flex"}`}>
           <div
             className="relative group"
@@ -129,7 +129,7 @@ export default function MainNavbar() {
             Start a Project
           </Link>
 
-          {/* "How it works" is removed from MainNavbar */}
+          
 
           <Link href="/login" className="bg-blue-500 text-white px-5 py-2 rounded-md hover:bg-blue-600 font-medium">
             Log In

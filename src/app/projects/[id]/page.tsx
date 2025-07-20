@@ -3,6 +3,7 @@
 import { useState } from "react";
 import projects from "@/app/components/Data/crowdfunding_projects.json";
 import getStripe from "@/app/utils/get-stripe";
+import Image from "next/image";
 
 export default function ProjectPage({ params }: { params: { id: string } }) {
   const id = Number(params.id);
@@ -39,7 +40,7 @@ export default function ProjectPage({ params }: { params: { id: string } }) {
   return (
     <div className="p-6 sm:p-8 max-w-5xl mx-auto space-y-10">
       <div className="rounded-xl overflow-hidden shadow-lg">
-        <img
+        <Image
           src={project.image}
           alt={project.name}
           className="w-full h-64 object-cover"

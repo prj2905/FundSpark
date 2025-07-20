@@ -3,6 +3,7 @@ import crowdfunding_projects from '@/app/components/Data/crowdfunding_projects.j
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
+import Image from 'next/image';
 
 type Project = {
   id: number;
@@ -52,12 +53,12 @@ export default function ExploreClickPage() {
             className="bg-white shadow-md rounded-2xl overflow-hidden hover:shadow-xl transition-shadow duration-300"
           >
             <div className="aspect-[4/3] bg-gray-200">
-              <img
+              <Image
                 src={project.image}
                 alt={project.name}
                 className="w-full h-full object-cover"
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = '/placeholder.png'; // fallback image path
+                  (e.target as HTMLImageElement).src = '/placeholder.png'; 
                 }}
               />
             </div>

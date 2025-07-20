@@ -1,3 +1,4 @@
+import Image from "next/image";
 export default function SuccessStories() {
   const stories = [
     {
@@ -35,7 +36,7 @@ export default function SuccessStories() {
             key={index}
             className="bg-white border border-gray-200 shadow-md rounded-xl p-6 flex flex-col items-center text-center hover:shadow-lg transition"
           >
-            <img
+            <Image
               src={story.image}
               alt={story.name}
               className="w-20 h-20 rounded-full object-cover mb-4"

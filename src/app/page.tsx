@@ -5,7 +5,7 @@ import Projects from './components/Landing Page/featured_projects';
 import HowItWorks from './components/Landing Page/Howitworks';
 import SuccessStories from './components/Landing Page/SuccessStories';
 import FAQ from './components/Landing Page/FAQ';
-import Footer from './components/Landing Page/Footer';
+
 import Chatbot from './chatbot/page';
 import { useRef } from 'react';
 

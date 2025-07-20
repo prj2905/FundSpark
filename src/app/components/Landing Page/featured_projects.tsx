@@ -1,7 +1,7 @@
  'use client'
 import { useState,useEffect } from 'react';
-import Link from 'next/link';
-import Image from 'next/image';
+
+
 import kickstarter_projects from "./../Data/crowdfunding_projects.json";
 
 export default function Projects() {
