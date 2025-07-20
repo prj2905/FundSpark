@@ -1,5 +1,5 @@
 "use client";
-
+import { useParams } from 'next/navigation';
 import { useState } from "react";
 import projects from "@/app/components/Data/crowdfunding_projects.json";
 import getStripe from "@/app/utils/get-stripe";
@@ -12,8 +12,9 @@ interface PageProps {
 }
 
 export default function ProjectPage({ params }: PageProps) {
-  const id = Number(params.id);
-  const project = projects.find((p) => p.id === id);
+ const { id } = useParams();
+  const projectId = Number(id);
+  const project = projects.find((p) => p.id === projectId);
   const [loadingTier, setLoadingTier] = useState<number | null>(null);
 
   const handleSelectTier = async (amount: number) => {
@@ -24,8 +25,8 @@ export default function ProjectPage({ params }: PageProps) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           amount,
-          campaignId: String(id),
-          backerEmail: "backer@example.com", 
+          campaignId: String(projectId),
+          backerEmail: "backer@example.com",
         }),
       });
 
@@ -42,6 +43,7 @@ export default function ProjectPage({ params }: PageProps) {
 
   if (!project)
     return <div className="p-8 text-center text-lg">🚫 Project not found.</div>;
+
 
   return (
     <div className="p-6 sm:p-8 max-w-5xl mx-auto space-y-10">
