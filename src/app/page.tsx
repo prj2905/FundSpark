@@ -7,7 +7,7 @@ import SuccessStories from './components/Landing Page/SuccessStories';
 import FAQ from './components/Landing Page/FAQ';
 
 import Chatbot from './chatbot/page';
-import { useRef } from 'react';
+
 
 export default function Home(){
    

@@ -18,7 +18,7 @@ export const authOptions: NextAuthOptions = {
             },
             async authorize(
                 credentials: Record<"email" | "password", string> | undefined
-            ): Promise< null> {
+            ): Promise<null> {
                 await dbConnect();
                 if (!credentials) return null;
                 const { email, password } = credentials;
@@ -39,7 +39,8 @@ export const authOptions: NextAuthOptions = {
                     } else {
                         return null;
                     }
-                } catch (error: unknown) {
+                } catch (error) {
+                    console.error("Login error:", error);
                     return null;
                 }
             },
@@ -49,10 +50,10 @@ export const authOptions: NextAuthOptions = {
 
         }),
 
-         GoogleProvider({
-      clientId: process.env.GOOGLE_CLIENT_ID!,
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET!,
-    })
+        GoogleProvider({
+            clientId: process.env.GOOGLE_CLIENT_ID!,
+            clientSecret: process.env.GOOGLE_CLIENT_SECRET!,
+        })
     ],
 
     pages: {
@@ -72,7 +73,7 @@ export const authOptions: NextAuthOptions = {
             if (user) {
                 token._id = user._id.toString();
                 token.isVerified = user.isVerified;
-                
+
                 token.username = user.username;
             }
 
@@ -80,18 +81,18 @@ export const authOptions: NextAuthOptions = {
         },
 
         async session({ session, token }) {
-            if(token){
+            if (token) {
                 session.user._id = token._id as string;
                 session.user.isVerified = token.isVerified as boolean;
-                
+
                 session.user.username = token.username as string;
             }
             return session;
-        } 
-        
-    }
-
-
-
+        }
 
     }
+
+
+
+
+}
