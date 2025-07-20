@@ -5,7 +5,13 @@ import projects from "@/app/components/Data/crowdfunding_projects.json";
 import getStripe from "@/app/utils/get-stripe";
 import Image from "next/image";
 
-export default function ProjectPage({ params }: { params: { id: string } }) {
+interface PageProps {
+  params: {
+    id: string;
+  };
+}
+
+export default function ProjectPage({ params }: PageProps) {
   const id = Number(params.id);
   const project = projects.find((p) => p.id === id);
   const [loadingTier, setLoadingTier] = useState<number | null>(null);
@@ -19,7 +25,7 @@ export default function ProjectPage({ params }: { params: { id: string } }) {
         body: JSON.stringify({
           amount,
           campaignId: String(id),
-          backerEmail: "backer@example.com", // Replace with session user's email later
+          backerEmail: "backer@example.com", 
         }),
       });
 
