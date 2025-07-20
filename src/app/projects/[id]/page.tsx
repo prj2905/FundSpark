@@ -11,7 +11,7 @@ interface PageProps {
   };
 }
 
-export default function ProjectPage({ params }: PageProps) {
+export default function ProjectPage() {
  const { id } = useParams();
   const projectId = Number(id);
   const project = projects.find((p) => p.id === projectId);
