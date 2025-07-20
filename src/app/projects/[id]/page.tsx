@@ -5,11 +5,7 @@ import projects from "@/app/components/Data/crowdfunding_projects.json";
 import getStripe from "@/app/utils/get-stripe";
 import Image from "next/image";
 
-interface PageProps {
-  params: {
-    id: string;
-  };
-}
+
 
 export default function ProjectPage() {
  const { id } = useParams();
