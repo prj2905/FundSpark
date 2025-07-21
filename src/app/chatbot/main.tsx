@@ -13,7 +13,7 @@ export default function Chatbot() {
 
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:8000/chat/', {
+      const res = await fetch('https://chatbot-2-8e2a.onrender.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

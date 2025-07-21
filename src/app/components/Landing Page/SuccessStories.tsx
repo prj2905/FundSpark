@@ -39,6 +39,8 @@ export default function SuccessStories() {
             <Image
               src={story.image}
               alt={story.name}
+              width={80}
+              height={80}
               className="w-20 h-20 rounded-full object-cover mb-4"
             />
             <p className="text-gray-600 text-sm italic mb-3">{story.quote}</p>
