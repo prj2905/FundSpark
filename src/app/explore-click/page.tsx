@@ -1,95 +1,10 @@
-'use client';
-import crowdfunding_projects from '@/app/components/Data/crowdfunding_projects.json';
-import { useState, useEffect } from 'react';
-import Link from 'next/link';
-import { useSearchParams } from 'next/navigation';
-import Image from 'next/image';
-export const dynamic = "force-dynamic";
-
-type Project = {
-  id: number;
-  name: string;
-  blurb: string;
-  image: string;
-  description: string;
-  goal: number;
-  pledged: number;
-  currency: string;
-  deadline: string;
-  location: string;
-  category: string;
-  creator: {
-    id: number;
-    name: string;
-  };
-  daysLeft: number;
-  percentageFunded: number;
-};
+import { Suspense } from "react";
+import ExploreClickClient from "./explore";
 
 export default function ExploreClickPage() {
-  const searchParams = useSearchParams();
-  const category = searchParams.get("category");
-
-  const [filteredProjects, setFilteredProjects] = useState<Project[]>([]);
-
-  useEffect(() => {
-    const data = crowdfunding_projects as Project[];
-
-    if (category) {
-      const filtered = data.filter((project) => project.category === category);
-      setFilteredProjects(filtered);
-    } else {
-      setFilteredProjects(data);
-    }
-  }, [category]);
-
   return (
-    <main className="p-6 min-h-screen">
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filteredProjects.map((project) => (
-          <div
-            key={project.id}
-            className="bg-white shadow-md rounded-2xl overflow-hidden hover:shadow-xl transition-shadow duration-300"
-          >
-            <div className="aspect-[4/3] bg-gray-200">
-              <Image
-                src={project.image}
-                alt={project.name}
-                className="w-full h-full object-cover"
-                onError={(e) => {
-                  (e.target as HTMLImageElement).src = '/placeholder.png';
-                }}
-              />
-            </div>
-            <div className="p-4">
-              <h2 className="text-xl font-semibold text-gray-800">{project.name}</h2>
-              <p className="text-gray-600 text-sm mt-1">{project.blurb}</p>
-              <div className="mt-2 text-sm text-gray-500">By {project.creator.name}</div>
-              <div className="mt-4">
-                <div className="w-full bg-gray-200 rounded-full h-2">
-                  <div
-                    className="bg-green-500 h-2 rounded-full"
-                    style={{ width: `${project.percentageFunded}%` }}
-                  ></div>
-                </div>
-                <div className="flex justify-between text-sm mt-1 text-gray-700">
-                  <span>${project.pledged} pledged</span>
-                  <span>{project.percentageFunded}% funded</span>
-                </div>
-                <div className="text-sm text-gray-500 mt-1">
-                  {project.daysLeft} days left • {project.location} • {project.category}
-                </div>
-              </div>
-              <Link
-                href={`/projects/${project.id}`}
-                className="inline-block mt-4 text-blue-600 hover:underline text-sm"
-              >
-                View Details
-              </Link>
-            </div>
-          </div>
-        ))}
-      </div>
-    </main>
+    <Suspense fallback={<div>Loading...</div>}>
+      <ExploreClickClient />
+    </Suspense>
   );
 }
