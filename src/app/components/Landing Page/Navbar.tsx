@@ -116,7 +116,7 @@ export default function Navbar() {
             onMouseEnter={handleMouseEnter}
             onMouseLeave={handleMouseLeave}
           >
-            <Link href="/explore" className="text-gray-700 hover:text-blue-500 font-medium">
+            <Link href="/projects-list" className="text-gray-700 hover:text-blue-500 font-medium">
               Explore
             </Link>
 
