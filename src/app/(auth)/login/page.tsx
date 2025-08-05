@@ -10,10 +10,20 @@ export default function LoginForm() {
   const [password, setPassword] = useState('');
   
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    console.log('Logging in with:', email, password);
-  };
+  const handleSubmit = async (e: React.FormEvent) => {
+  e.preventDefault();
+  const result = await signIn('credentials-login', {
+    redirect: false,
+    email,
+    password,
+  });
+
+  if (result?.error) {
+    alert('Login failed: ' + result.error);
+  } else if (result?.ok) {
+    window.location.href = '/';
+  }
+};
 
   return (
     <div className="min-h-screen flex items-center justify-center px-4">
